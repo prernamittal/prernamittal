@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Prerna 👩🏻‍💻<br><br>
+<a href = "https://www.linkedin.com/in/prernamittal03/">
+<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <!--
 **prernamittal/prernamittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
