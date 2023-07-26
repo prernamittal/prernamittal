@@ -1,4 +1,8 @@
-### Hi there 👋 I'm Prerna 👩🏻‍💻<br><br>
+### Hi there 👋 I'm Prerna 👩🏻‍💻<br>
+⭐ I'm passionate about Open Source, Machine Learning, MERN stack development and VLSI design & technology! ⭐
+
+Connect with me:
+
 <a href = "https://www.linkedin.com/in/prernamittal03/">
 <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "https://medium.com/@prernaharshi3403">
