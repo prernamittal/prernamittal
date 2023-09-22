@@ -8,6 +8,9 @@ Connect with me:
 <a href = "https://medium.com/@prernaharshi3403">
 <img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a><br><br>
 
+Shortcut to Frequently Visited Repos:
+<li><a href = "https://github.com/prernamittal/CSELabs"> MIT CSE Lab Programs </a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prernamittal&show_icons=true&count_private=true&bg_color=111111&text_color=9457EB&icon_color=E1E2EB&title_color=E1E2EB
 )  
   
