@@ -5,7 +5,7 @@ Connect with me:
 
 <a href = "https://www.linkedin.com/in/prernamittal03/">
 <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://medium.com/@prernaharshi3403">
+<a href = "https://medium.com/@prernamittal03">
 <img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a><br><br>
 
 Shortcut to Frequently Visited Repos:
